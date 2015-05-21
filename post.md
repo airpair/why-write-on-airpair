@@ -21,7 +21,7 @@ This also shows to potential business owners who may be looking for a partner to
  <img src="https://airpair.github.io/img/2015/02/social-authoring-header.png">
 AirPair simulates a professional, online hackathon with developers each working on their own projects and posting their ideas independently onto one platform. This allows for collaboration unheard of in the past in the sense that you can find developers who fit what you're interested in just seconds by selecting which technology tag you want to search. You can also create joint posts with other authors and collaborate in a multitude of ways. The best thing about this is the developers are pre-screened for being genuine, human individuals who are qualified. 
 
-AirPair is also a fantastic place to solicit for collaboration as it is pre-screened as a network for highly talented developers. Rather than taking a roll of the dice on Elance or Odesk, come to a place where developers are human, genuine, and aren't just about the dollar. 
+AirPair is also a fantastic place to solicit for collaboration as it is pre-screened as a network for highly talented developers. 
 
  <h2> Get Discovered </h2> 
  <img src="https://pbs.twimg.com/media/B_NgTnOVIAAfHHL.png">
